@@ -1,10 +1,10 @@
 body {
     margin: 0;
     padding: 0;
-    height: 100%;
     font-family: Arial, sans-serif;
     background-image: url('opala.jpg');
     background-size: cover; 
+    height: 100vr;
     background-repeat: no-repeat; 
     background-position: center; 
     
