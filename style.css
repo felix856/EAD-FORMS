@@ -8,9 +8,9 @@ body {
 .background {
     background-image: url('opala.jpg'); /* Caminho para sua imagem de fundo */
     height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
     display: flex;
     justify-content: center;
     align-items: center;
